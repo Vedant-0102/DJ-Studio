@@ -41,6 +41,8 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 
 ## Technologies Used
+- **Web Audio API** - For real-time audio processing and visualization
+- **Media Session API** - For media controls integration
 - **React** (Component-based UI)
 - **Vite** (Blazing Fast Build Tool)
 - **CSS Modules** (Styling)
