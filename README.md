@@ -1,5 +1,5 @@
 # DJ Studio
-DJ Studio is a modern web application that allows users to explore and play music tracks. It features a sleek design, responsive layout, and a user-friendly interface for discovering new music.
+DJ Studio is a modern web application that allows users to explore and play music tracks. With Control over 2 Decks, option to change the tempo, pitch, and volume of each track, it provides an immersive DJ experience.
 
 # Features
 
